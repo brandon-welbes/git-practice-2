@@ -1,0 +1,4 @@
+#Rules for .gitignore
+
+/bin
+*.class
